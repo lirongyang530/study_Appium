@@ -1,0 +1,34 @@
+[2020-09-16 14:34:45,424] - logger.py] - INFO: --------------start-------------
+[2020-09-16 15:06:26,756] - logger.py] - INFO: --------------start-------------
+[2020-09-16 15:17:50,744] - logger.py] - INFO: --------------start-------------
+[2020-09-16 15:28:18,384] - logger.py] - INFO: --------------start-------------
+[2020-09-16 15:28:18,750] - logger.py] - INFO: 调用登录结果：李荣洋
+[2020-09-16 15:28:18,752] - logger.py] - INFO: 判断是否登录成功：李荣洋
+[2020-09-16 15:28:18,753] - logger.py] - INFO: --------------end-------------
+[2020-09-16 15:28:18,962] - logger.py] - INFO: 调用登录结果：李荣洋
+[2020-09-16 15:28:27,261] - logger.py] - INFO: 调用保存结果：{'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906', 'json': {'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906'}}
+[2020-09-16 15:28:27,624] - logger.py] - INFO: 调用登录结果：李荣洋
+[2020-09-16 15:28:27,756] - logger.py] - INFO: 调用保存结果：{'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906', 'json': {'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906'}}
+[2020-09-16 15:28:27,899] - logger.py] - INFO: 调用删除结果：http://localhost:8080/jenkins/
+[2020-09-16 15:30:08,446] - logger.py] - INFO: --------------start-------------
+[2020-09-16 15:30:08,684] - logger.py] - INFO: 调用登录结果：李荣洋
+[2020-09-16 15:30:08,685] - logger.py] - INFO: 判断是否登录成功：李荣洋
+[2020-09-16 15:30:08,686] - logger.py] - INFO: --------------end-------------
+[2020-09-16 15:30:08,846] - logger.py] - INFO: 调用登录结果：李荣洋
+[2020-09-16 15:30:10,444] - logger.py] - INFO: 调用保存结果：{'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906', 'json': {'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906'}}
+[2020-09-16 15:30:10,605] - logger.py] - INFO: 调用登录结果：李荣洋
+[2020-09-16 15:30:10,639] - logger.py] - INFO: 调用保存结果：{'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906', 'json': {'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906'}}
+[2020-09-16 15:30:10,711] - logger.py] - INFO: 调用删除结果：http://localhost:8080/jenkins/
+[2020-09-16 15:30:10,712] - logger.py] - INFO: --------------start-------------
+[2020-09-16 15:31:22,557] - logger.py] - INFO: --------------start-------------
+[2020-09-16 15:31:22,787] - logger.py] - INFO: 调用登录结果：李荣洋
+[2020-09-16 15:31:22,788] - logger.py] - INFO: 判断是否登录成功：李荣洋
+[2020-09-16 15:31:22,789] - logger.py] - INFO: --------------end-------------
+[2020-09-16 15:31:22,954] - logger.py] - INFO: 调用登录结果：李荣洋
+[2020-09-16 15:31:24,222] - logger.py] - INFO: 调用保存结果：{'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906', 'json': {'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906'}}
+[2020-09-16 15:31:24,480] - logger.py] - INFO: 调用登录结果：李荣洋
+[2020-09-16 15:31:24,509] - logger.py] - INFO: 调用保存结果：{'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906', 'json': {'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906'}}
+[2020-09-16 15:31:24,583] - logger.py] - INFO: 调用删除结果：http://localhost:8080/jenkins/
+[2020-09-16 15:31:24,585] - logger.py] - INFO: --------------start-------------
+[2020-09-16 15:31:24,628] - logger.py] - INFO: 状态码：200
+[2020-09-16 15:31:24,630] - logger.py] - INFO: --------------end-------------
